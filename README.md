@@ -23,4 +23,4 @@ python -m pip install lz4~=3.0.2 msgpack~=1.0.0 phe~=1.4.0 scipy~=1.4.1 syft-pro
 
 to run:
 
-python main.py --server_ip 192.168.8.160 --server_port 8765
+python main.py --server_ip <ip> --server_port <port>
